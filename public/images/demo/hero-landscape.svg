@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Desert patio at dusk">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#172235"/>
+      <stop offset=".45" stop-color="#515a62"/>
+      <stop offset="1" stop-color="#111714"/>
+    </linearGradient>
+    <radialGradient id="fire" cx="50%" cy="52%" r="50%">
+      <stop offset="0" stop-color="#ffe08a"/>
+      <stop offset=".35" stop-color="#f59e0b"/>
+      <stop offset=".7" stop-color="#7c2d12"/>
+      <stop offset="1" stop-color="#111714"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="520" fill="url(#sky)"/>
+  <circle cx="995" cy="115" r="66" fill="#f4b965" opacity=".6"/>
+  <path d="M0 330 C140 255 270 280 390 240 C520 196 650 245 785 198 C950 140 1080 190 1200 156 V520 H0Z" fill="#202d24"/>
+  <path d="M760 170 h210 l72 185 H705Z" fill="#25342f"/>
+  <path d="M804 207 h118 v74 H804Z" fill="#d8c7a4" opacity=".32"/>
+  <path d="M115 340 h720 v74 H115Z" fill="#c6b79e" opacity=".75"/>
+  <path d="M158 362 h178 v40 H158Zm212 0 h178 v40 H370Zm212 0 h178 v40 H582Z" fill="#786b58"/>
+  <ellipse cx="608" cy="392" rx="108" ry="36" fill="#342a22"/>
+  <circle cx="608" cy="378" r="58" fill="url(#fire)"/>
+  <path d="M602 382 c-18-28 16-50 8-86 34 30 34 66 12 96 28-22 34-48 22-76 42 38 42 78 4 100-34 20-74 4-46-34Z" fill="#f97316"/>
+  <path d="M600 388 c-7-17 12-31 9-52 19 20 20 42 2 64Z" fill="#fff7c2"/>
+  <path d="M138 250 c0-58 18-88 34-103 16 15 34 45 34 103 h-26 v86 h-16 v-86Z" fill="#244c35"/>
+  <path d="M1040 244 c0-70 22-108 42-126 20 18 42 56 42 126 h-31 v105 h-22 V244Z" fill="#244c35"/>
+  <rect width="1200" height="520" fill="#020617" opacity=".22"/>
+</svg>
